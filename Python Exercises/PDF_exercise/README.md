@@ -1,5 +1,6 @@
 # We are Learning PDF Creation and manipulation in this example.
-## Exercise Goal: To create a .pdf file from the provided text files. The page should contain the text file names as the header of each page in the PDF 
+## Exercise Goal: 
+### To create a .pdf file from the provided text files. The page should contain the text file names as the header of each page in the PDF 
 
 
 ## *Note about Library:* 
